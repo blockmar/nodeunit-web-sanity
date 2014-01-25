@@ -1,0 +1,28 @@
+{
+    "name": "nodeunit-web-sanity",
+    "version": "0.0.2",
+    "description": "Testing library for nodeunit to test basic sanity of urls",
+    "author": {
+        "name": "Anders Blockmar",
+        "email": "npm@blockmar.com",
+        "url": "http://andersblockmar.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/blockmar/nodeunit-web-sanity.git"
+    },
+    "bugs": {
+        "url": "http://github.com/blockmar/nodeunit-web-sanity/issues"
+    },
+    "dependencies": {
+        "clone-merge": "*"
+    },
+    "engines": {
+        "node": ">= 0.4.0"
+    },
+    "licenses": [ {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/MIT"
+    } ],
+    "keywords": ["http", "nodeunit", "test", "request", "post", "sanity", "get"]
+}
